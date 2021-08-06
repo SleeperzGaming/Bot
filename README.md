@@ -9,8 +9,8 @@ code for Sleeperz Discord Bot
 2. Install Yarn
 ` # npm install -g yarn`
 
-3. Clone the repository
-` $ git clone https://github.com/SleeperzGaming/Bot.git && cd Bot`
+3. Clone the repository and install dependencies
+` $ git clone https://github.com/SleeperzGaming/Bot.git && cd Bot && yarn install`
 
 4. Make changes to all the files that you would like to change. Test the bot before pushing to make sure the features you added work properly. Add senstitive information like the bot's token in a `.env` file referring to `.env.example` as an example file.
 
